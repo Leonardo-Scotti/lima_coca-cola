@@ -1,5 +1,5 @@
 # COCA-COLA
-![](./coca-cola-preview.png)
+![](./preview-coca-cola.png)
 ![](./itubaina-preview.png)
 
 ## Projeto
