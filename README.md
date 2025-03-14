@@ -1,5 +1,6 @@
 # COCA-COLA
 ![](./coca-cola-preview.png)
+![](./itubaina-preview.png)
 
 ## Projeto
 Primeiro website criado, do tipo landing page, para treino no desenvolvimento de sites.
